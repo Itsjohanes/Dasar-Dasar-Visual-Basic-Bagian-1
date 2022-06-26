@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.exe
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.deps.json
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.runtimeconfig.json
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.runtimeconfig.dev.json
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.dll
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\ref\OperatorConcatenation.dll
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\bin\Debug\net5.0\OperatorConcatenation.pdb
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.AssemblyInfo.vb
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.dll
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\ref\OperatorConcatenation.dll
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.pdb
+C:\Users\acer\Desktop\New folder (2)\OperatorConcatenation\OperatorConcatenation\obj\Debug\net5.0\OperatorConcatenation.genruntimeconfig.cache

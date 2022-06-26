@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.exe
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.deps.json
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.dll
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\ref\Operator.dll
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\bin\Debug\net5.0\Operator.pdb
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.vb
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.dll
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\ref\Operator.dll
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.pdb
+C:\Users\acer\Desktop\New folder (2)\Operator\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache

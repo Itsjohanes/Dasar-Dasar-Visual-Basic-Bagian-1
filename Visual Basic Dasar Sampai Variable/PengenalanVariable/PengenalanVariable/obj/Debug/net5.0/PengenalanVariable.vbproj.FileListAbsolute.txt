@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.exe
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.deps.json
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.runtimeconfig.json
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.runtimeconfig.dev.json
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.dll
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\ref\PengenalanVariable.dll
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\bin\Debug\net5.0\PengenalanVariable.pdb
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.AssemblyInfo.vb
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.dll
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\ref\PengenalanVariable.dll
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.pdb
+C:\Users\acer\Desktop\New folder (2)\PengenalanVariable\PengenalanVariable\obj\Debug\net5.0\PengenalanVariable.genruntimeconfig.cache
